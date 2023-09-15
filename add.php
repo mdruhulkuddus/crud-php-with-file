@@ -49,30 +49,11 @@
                                     <input type="file" class="form-control" id="fileInput" name="file">
                                 </div>
                                 <div class="mb-3">
-                                    <button type="submit" class="btn btn-primary" id="btn-insert" name="submit">Submit</button>
+                                    <button type="submit" class="btn btn-primary" id="btn-insert" name="submit">Add Info</button>
                                 </div>
                             </form>
                         </div>
                     </div>
-<!--                    <button class=" mt-3 form-control btn btn-secondary read"> All student Info</button>-->
-<!--                    <div class="card mt-2">-->
-<!--                        <div class="card-body table-responsive">-->
-<!--                            <table class="table table-striped table-hover">-->
-<!--                                <thead>-->
-<!--                                    <tr>-->
-<!--                                        <th scope="col">SL</th>-->
-<!--                                        <th scope="col">Name</th>-->
-<!--                                        <th scope="col">Email</th>-->
-<!--                                        <th scope="col">Password</th>-->
-<!--                                        <th scope="col">Action</th>-->
-<!--                                    </tr>-->
-<!--                                </thead>-->
-<!--                                <tbody id="tbody">-->
-<!--                                    -->
-<!--                                </tbody>-->
-<!--                            </table>-->
-<!--                        </div>-->
-<!--                    </div>-->
                 </div>
             </div>
             <div class="relod"></div>

@@ -52,7 +52,7 @@ $result = $mysqli->query("SELECT * FROM form ORDER BY id DESC;");
                                         <input type="hidden" name="id" value="<?php echo $data['id']; ?>">
                                     <button class="btn btn-outline-danger">Delete</button>
                                     </form>
-                                    <a href="edit.php?id=<?php echo $data['id']; ?>" class="btn btn-outline-danger">Edit</a>
+                                    <a href="edit.php?id=<?php echo $data['id']; ?>" class="btn btn-outline-success">Edit</a>
 
                                 </td>
                             </tr>
